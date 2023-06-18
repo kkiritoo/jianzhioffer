@@ -1,0 +1,5 @@
+[GIT]如何删除分支
+https://blog.csdn.net/weixin_43288065/article/details/126597869
+
+git checkout -b是要新建
+在git中，可利用checkout命令转换分支，该命令的作用就是切换分支或恢复工作树文件，语法为“git checkout 分支名”；当参数设置为“-b”时，可以在新分支创建的同时切换分支，语法为“git checkout -b 分支名”。
